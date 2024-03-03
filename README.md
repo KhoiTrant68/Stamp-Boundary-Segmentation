@@ -11,7 +11,7 @@ The problem to solve is much easier because we need to detect color red in image
 - Python 
 - Opencv-python
 - Opencv-contrib-python
-- Numpy >= 1.14.3
+- Numpy 
 
 ## Quick Start
 
@@ -25,12 +25,22 @@ $ python run_ellipse.py
 
 Only listed several examples, more results can be found in my [github]([https://github.com/KhoiTrant68/Stamp-Boundary-Segmentation]).
 
-
+<table>
+  	<tr>
+    	<td> <img src="./data/stamp/0.jpg"  alt="1" width = 180px height = 180px ></td>
+    	<td><img src="./results/stamp/0.jpg" alt="2" width = 180px height = 180px></td>
+   	</tr> 
+   	<tr>
+      	<td><img src="./data/stamp_advance/1.jpg" alt="3" width = 180px height = 180px></td>
+      	<td><img src="./results/stamp_advance/1.jpg" alt="4" width = 180px height = 180px></td>
+  	</tr>
+</table>
+<!-- 
 <table>
   	<tr>
 		<th>Original</th>
 		<th>Mask</th>	
-	</tr>
+	</tr>	
   	<tr>
 		<th><img src="./data/stamp/0.jpg"/></th>		
 		<th><img src="./results/stamp/0.jpg"/></th>
@@ -39,7 +49,7 @@ Only listed several examples, more results can be found in my [github]([https://
 		<th><img src="./data/stamp_advance/1.jpg"/></th>		
 		<th><img src="./results/stamp_advance/1.jpg"/></th>
 	</tr>
-<table>
+</table> -->
  
  
 
