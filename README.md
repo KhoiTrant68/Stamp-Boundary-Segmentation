@@ -27,23 +27,17 @@ Only listed several examples, more results can be found in my [github]([https://
 
 
 <table>
-  <tr>
+  	<tr>
 		<th>Original</th>
 		<th>Mask</th>	
 	</tr>
-  <tr>
+	
+  	<tr>
 		<th><img src="./data/stamp/0.jpg"/></th>		
 		<th><img src="./results/stamp/0.jpg"/></th>
 	</tr>
-  <tr>
-		<th><img src="./data/stamp/1.jpg"/></th>		
-		<th><img src="./results/stamp/1.jpg"/></th>
-	</tr>
- <tr>
-		<th><img src="./data/stamp_advance/0.jpg"/></th>		
-		<th><img src="./results/stamp_advance/0.jpg"/></th>
- </tr>
- <tr>
+  
+ 	<tr>
 		<th><img src="./data/stamp_advance/1.jpg"/></th>		
 		<th><img src="./results/stamp_advance/1.jpg"/></th>
 	</tr>
